@@ -5,6 +5,8 @@ This is a simple to-do list implemented in vanilla JavaScript following object o
 You're provided with a dashboard where you can add categories of _stuff to do_. You can add new tasks, mark them as done, or plain delete them. Deleting a category will remove all associated tasks.
 
  Data persistence is provided through localStorage.
+ 
+ ![Stuff to do](https://raw.githubusercontent.com/MyElectricSheep/OOP-JS-To-Do-List/main/stuff-to-do-screenshot.png)
 
 # OOP ?
 
